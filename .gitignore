@@ -1,0 +1,7 @@
+*.csv
+.vscode
+cerebrum*
+*.o
+makeconfig
+*.a
+plot.py
